@@ -7,6 +7,7 @@ Flash Chat is an internet based messaging app similar to WhatsApp, the popular m
 
 ## Things I learned from this app
 
+* implement MVC Design pattern
 * How to integrate third party libraries in your app.
 * How to store data in the cloud using Firebase.
 * How to query the Firebase database.
